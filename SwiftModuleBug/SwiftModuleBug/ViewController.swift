@@ -7,5 +7,11 @@
 //
 
 import UIKit
+import IncludingFramework
 
-class ViewController: UIViewController {}
+class ViewController: UIViewController {
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        _ = Manager()
+    }
+}

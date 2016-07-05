@@ -462,6 +462,7 @@
 				FFE2D2731D2B924500FA45D3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
